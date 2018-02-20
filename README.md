@@ -1,3 +1,3 @@
 # html5Multicast
-start application via startWebSocket.sh
+start application via startWebSocketStream.sh
 and stream video via play.sh
